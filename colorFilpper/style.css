@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    background-color: #7D452E; /* Set a background color for the body if needed */
+  }
+
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
