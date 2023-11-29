@@ -1,3 +1,1 @@
-In this repository, I've meticulously compiled and included a comprehensive collection of JavaScript practice projects that I have personally conceptualized and developed. Each project encapsulates diverse aspects of JavaScript programming, showcasing my proficiency and versatility in leveraging this powerful language. 
-
-These projects not only serve as a testament to my practical skills but also reflect the depth of my commitment to continuous learning and hands-on application of JavaScript in various scenarios. Feel free to explore the repository to gain insights into my coding style, problem-solving approach, and the breadth of my experience in the realm of JavaScript development.
+This Repository has collection of my frontend practice projects.
